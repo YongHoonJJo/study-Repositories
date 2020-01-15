@@ -23,6 +23,8 @@
 
 ## Useful Repositories or Web
 
+[프론트엔드 개발 환경의 이해(jeonghwan-kim/lecture-frontend-dev-env)](https://github.com/jeonghwan-kim/lecture-frontend-dev-env)
+
 [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)
 
 [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
