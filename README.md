@@ -10,6 +10,8 @@
 
 [css-study](https://github.com/YongHoonJJo/css-study)
 
+[vanilla-js](https://github.com/YongHoonJJo/vanillaJS-study)
+
 [node.js](https://github.com/YongHoonJJo/nodejs-study)
 
 [typescript](https://github.com/YongHoonJJo/Typescript-study)
