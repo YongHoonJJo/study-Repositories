@@ -2,6 +2,8 @@
 
 [fxjs](https://github.com/YongHoonJJo/fxjs-study)
 
+[fp-practice](https://github.com/YongHoonJJo/fp-practice)
+
 [React-Native](https://github.com/YongHoonJJo/ReactNative-study)
 
 [html-css](https://github.com/YongHoonJJo/Devel-Up)
@@ -23,7 +25,7 @@
 
 ## Useful Repositories or Web
 
-[프론트엔드 개발 환경의 이해(jeonghwan-kim/lecture-frontend-dev-env)](https://github.com/jeonghwan-kim/lecture-frontend-dev-env)
+[프론트엔드 개발 환경의 이해 (jeonghwan-kim/lecture-frontend-dev-env)](https://github.com/jeonghwan-kim/lecture-frontend-dev-env)
 
 [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)
 
