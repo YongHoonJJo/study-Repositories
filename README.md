@@ -29,6 +29,8 @@
 
 [qkraudghgh / clean-code-javascript-ko](https://github.com/qkraudghgh/clean-code-javascript-ko)
 
+[신입 개발자 역량 평가](https://github.com/EBvi/dev-matrix/blob/master/신입%20개발자%20역량%20평가.md)
+
 [프론트엔드 개발 환경의 이해 (jeonghwan-kim/lecture-frontend-dev-env)](https://github.com/jeonghwan-kim/lecture-frontend-dev-env)
 
 [Front-end Developer Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/)
