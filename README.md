@@ -6,7 +6,13 @@
 
 [Sample-Project](https://github.com/YongHoonJJo/Sample-Projects)
 
+[sql-study](https://github.com/YongHoonJJo/mysql-study)
+
+[ORM-study](https://github.com/YongHoonJJo/ORM-study)
+
 [React-Native](https://github.com/YongHoonJJo/ReactNative-study)
+
+[Redux-study](https://github.com/YongHoonJJo/redux-study)
 
 [html-css](https://github.com/YongHoonJJo/Devel-Up)
 
