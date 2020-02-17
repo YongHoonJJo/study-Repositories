@@ -63,7 +63,8 @@ The statement "use strict"; instructs the browser to use the Strict mode, which 
 ```
 
 개발자가 실수하기 쉬운 `잘못된 문법`들을 미리 알려주는 역할을 한다고 생각하면 된다고 한다.
-
+window 객체가 undefined 상태가 되기 때문이라고 한다.
+개발자가 실수하기 쉬운 `잘못된 문법`들을 미리 알려주는 역할을 한다고 생각하면 된다고 한다.
 <br>
 
 ```js
