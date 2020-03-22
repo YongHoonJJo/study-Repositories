@@ -11,3 +11,8 @@
 ### [번역] 10만명 접속을 허용하는 시스템 만들기
 <https://brunch.co.kr/@jowlee/102>
 
+<br>
+
+### Don’t block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리
+<https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/>
+
